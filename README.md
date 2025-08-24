@@ -45,7 +45,7 @@ MERN Stack Developer with hands-on experience in full-stack apps. Currently work
 ---
 
 ## 💼 Experience
-**Prestigious IT Solution**  
+**Prestious IT Solution**  
 - MERN Stack Developer — _Present_  
 - MERN Stack Developer Intern — _Past_  
   - Built full-stack features with **React, Next.js, Node.js, Express, MongoDB**  
